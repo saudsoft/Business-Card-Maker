@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Card Title"; ObjectID = "4qp-b3-tmr"; */
+"4qp-b3-tmr.text" = "عنوان البطاقة";
+
+/* Class = "UITextField"; placeholder = "Middle Name"; ObjectID = "5ss-P1-8ik"; */
+"5ss-P1-8ik.placeholder" = "الاسم الاوسط";
+
+/* Class = "UILabel"; text = "Organization Name"; ObjectID = "7S1-Qp-S8h"; */
+"7S1-Qp-S8h.text" = "اسم المنظمة";
+
+/* Class = "UIButton"; normalTitle = "Share as VCard"; ObjectID = "82U-lh-MZJ"; */
+"82U-lh-MZJ.normalTitle" = "مشاركة جهة الاتصال";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "A0o-lb-SpV"; */
+"A0o-lb-SpV.text" = "بريد إلكتروني";
+
+/* Class = "UILabel"; text = "Create Card"; ObjectID = "ABe-bL-4YE"; */
+"ABe-bL-4YE.text" = "إنشاء بطاقة";
+
+/* Class = "UIBarButtonItem"; title = "Save Card Image"; ObjectID = "Ahy-fn-72s"; */
+"Ahy-fn-72s.title" = "حفظ صورة البطاقة";
+
+/* Class = "UILabel"; text = "Menu 1"; ObjectID = "D40-CQ-DcN"; */
+"D40-CQ-DcN.text" = "Language";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "EBo-qm-2zH"; */
+"EBo-qm-2zH.text" = "العربية";
+
+/* Class = "UIBarButtonItem"; title = "Toggle View"; ObjectID = "F19-bV-knB"; */
+"F19-bV-knB.title" = "تبديل العرض";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "FfX-RC-iGN"; */
+"FfX-RC-iGN.placeholder" = "رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Jcs-mJ-TQu"; */
+"Jcs-mJ-TQu.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "Card Name"; ObjectID = "Nht-Rr-u8Q"; */
+"Nht-Rr-u8Q.text" = "اسم البطاقة";
+
+/* Class = "UITextField"; placeholder = "Given Name"; ObjectID = "NsM-La-hY1"; */
+"NsM-La-hY1.placeholder" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "Menu 1"; ObjectID = "QrT-G5-jQ8"; */
+"QrT-G5-jQ8.text" = "Menu 12";
+
+/* Class = "UITextField"; placeholder = "Family Name"; ObjectID = "RPO-GQ-uWj"; */
+"RPO-GQ-uWj.placeholder" = "اسم العائلة";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "RPs-23-vIr"; */
+"RPs-23-vIr.text" = "الاسم الكامل";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "S50-yX-UYI"; */
+"S50-yX-UYI.text" = "حول";
+
+/* Class = "UITextField"; placeholder = "Organization Name"; ObjectID = "b4v-tH-v54"; */
+"b4v-tH-v54.placeholder" = "اسم المنظمة";
+
+/* Class = "UITextField"; placeholder = "Fax Number"; ObjectID = "eeE-y2-zaj"; */
+"eeE-y2-zaj.placeholder" = "رقم الفاكس";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "ftI-eO-38g"; */
+"ftI-eO-38g.text" = "موقع ويب";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "kLK-TW-1Go"; */
+"kLK-TW-1Go.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "Job Title"; ObjectID = "obP-pl-5gM"; */
+"obP-pl-5gM.text" = "المسمى الوظيفي";
+
+/* Class = "UIButton"; normalTitle = "Share QR Image"; ObjectID = "rUu-Jz-8rG"; */
+"rUu-Jz-8rG.normalTitle" = "شارك كود البطاقة";
+
+/* Class = "UILabel"; text = "|"; ObjectID = "ruD-GD-7qo"; */
+"ruD-GD-7qo.text" = "|";
+
+/* Class = "UITextField"; placeholder = "Card Title"; ObjectID = "t9X-4e-524"; */
+"t9X-4e-524.placeholder" = "عنوان البطاقة";
+
+/* Class = "UITextField"; placeholder = "Job Title"; ObjectID = "tSg-GU-XEY"; */
+"tSg-GU-XEY.placeholder" = "المسمى الوظيفي";
+
+/* Class = "UILabel"; text = "Mobile #"; ObjectID = "wms-u4-FuK"; */
+"wms-u4-FuK.text" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "Fax #"; ObjectID = "wyv-4W-F4e"; */
+"wyv-4W-F4e.text" = "رقم الفاكس";
+
+/* Class = "UITextField"; placeholder = "Website"; ObjectID = "yho-Zd-wse"; */
+"yho-Zd-wse.placeholder" = "موقع ويب";
+
+/* Class = "UILabel"; text = "My Cards"; ObjectID = "zFd-U6-aRl"; */
+"zFd-U6-aRl.text" = "بطاقاتي";

@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Card Title"; ObjectID = "4qp-b3-tmr"; */
+"4qp-b3-tmr.text" = "Card Title";
+
+/* Class = "UITextField"; placeholder = "Middle Name"; ObjectID = "5ss-P1-8ik"; */
+"5ss-P1-8ik.placeholder" = "Middle Name";
+
+/* Class = "UILabel"; text = "Organization Name"; ObjectID = "7S1-Qp-S8h"; */
+"7S1-Qp-S8h.text" = "Organization Name";
+
+/* Class = "UIButton"; normalTitle = "Share as VCard"; ObjectID = "82U-lh-MZJ"; */
+"82U-lh-MZJ.normalTitle" = "Share as VCard";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "A0o-lb-SpV"; */
+"A0o-lb-SpV.text" = "Email";
+
+/* Class = "UILabel"; text = "Create Card"; ObjectID = "ABe-bL-4YE"; */
+"ABe-bL-4YE.text" = "Create Card";
+
+/* Class = "UIBarButtonItem"; title = "Save Card Image"; ObjectID = "Ahy-fn-72s"; */
+"Ahy-fn-72s.title" = "Save Card Image";
+
+/* Class = "UILabel"; text = "Menu 1"; ObjectID = "D40-CQ-DcN"; */
+"D40-CQ-DcN.text" = "اللغة";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "EBo-qm-2zH"; */
+"EBo-qm-2zH.text" = "English";
+
+/* Class = "UIBarButtonItem"; title = "Toggle View"; ObjectID = "F19-bV-knB"; */
+"F19-bV-knB.title" = "Toggle View";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "FfX-RC-iGN"; */
+"FfX-RC-iGN.placeholder" = "Mobile Number";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Jcs-mJ-TQu"; */
+"Jcs-mJ-TQu.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Card Name"; ObjectID = "Nht-Rr-u8Q"; */
+"Nht-Rr-u8Q.text" = "Card Name";
+
+/* Class = "UITextField"; placeholder = "Given Name"; ObjectID = "NsM-La-hY1"; */
+"NsM-La-hY1.placeholder" = "Given Name";
+
+/* Class = "UILabel"; text = "Menu 1"; ObjectID = "QrT-G5-jQ8"; */
+"QrT-G5-jQ8.text" = "Menu 12";
+
+/* Class = "UITextField"; placeholder = "Family Name"; ObjectID = "RPO-GQ-uWj"; */
+"RPO-GQ-uWj.placeholder" = "Family Name";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "RPs-23-vIr"; */
+"RPs-23-vIr.text" = "Full Name";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "S50-yX-UYI"; */
+"S50-yX-UYI.text" = "About";
+
+/* Class = "UITextField"; placeholder = "Organization Name"; ObjectID = "b4v-tH-v54"; */
+"b4v-tH-v54.placeholder" = "Organization Name";
+
+/* Class = "UITextField"; placeholder = "Fax Number"; ObjectID = "eeE-y2-zaj"; */
+"eeE-y2-zaj.placeholder" = "Fax Number";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "ftI-eO-38g"; */
+"ftI-eO-38g.text" = "Website";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "kLK-TW-1Go"; */
+"kLK-TW-1Go.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Job Title"; ObjectID = "obP-pl-5gM"; */
+"obP-pl-5gM.text" = "Job Title";
+
+/* Class = "UIButton"; normalTitle = "Share QR Image"; ObjectID = "rUu-Jz-8rG"; */
+"rUu-Jz-8rG.normalTitle" = "Share QR Image";
+
+/* Class = "UILabel"; text = "|"; ObjectID = "ruD-GD-7qo"; */
+"ruD-GD-7qo.text" = "|";
+
+/* Class = "UITextField"; placeholder = "Card Title"; ObjectID = "t9X-4e-524"; */
+"t9X-4e-524.placeholder" = "Card Title";
+
+/* Class = "UITextField"; placeholder = "Job Title"; ObjectID = "tSg-GU-XEY"; */
+"tSg-GU-XEY.placeholder" = "Job Title";
+
+/* Class = "UILabel"; text = "Mobile #"; ObjectID = "wms-u4-FuK"; */
+"wms-u4-FuK.text" = "Mobile #";
+
+/* Class = "UILabel"; text = "Fax #"; ObjectID = "wyv-4W-F4e"; */
+"wyv-4W-F4e.text" = "Fax #";
+
+/* Class = "UITextField"; placeholder = "Website"; ObjectID = "yho-Zd-wse"; */
+"yho-Zd-wse.placeholder" = "Website";
+
+/* Class = "UILabel"; text = "My Cards"; ObjectID = "zFd-U6-aRl"; */
+"zFd-U6-aRl.text" = "My Cards";
